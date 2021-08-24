@@ -15,17 +15,9 @@ namespace asyno.CustomerConsoleApplication
                 "Delete Customer",
                 "Exit"
             };
-
+        
         public Printer() {
-
-            customers.Add(new Customer()
-            {
-                Id = id++,
-                FirstName  = "Marco",
-              LastName = "Gabel",
-              Address = new Address(){Street = "Gellerupvej 121", City = "Varde"}
-            });
-
+            
             var selection = ShowMenu();
 
             while (selection != 5)
