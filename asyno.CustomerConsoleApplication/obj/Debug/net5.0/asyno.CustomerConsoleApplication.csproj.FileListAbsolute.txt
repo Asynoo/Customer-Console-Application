@@ -1,0 +1,16 @@
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\bin\Debug\net5.0\asyno.CustomerConsoleApplication.exe
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\bin\Debug\net5.0\asyno.CustomerConsoleApplication.deps.json
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\bin\Debug\net5.0\asyno.CustomerConsoleApplication.runtimeconfig.json
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\bin\Debug\net5.0\asyno.CustomerConsoleApplication.runtimeconfig.dev.json
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\bin\Debug\net5.0\asyno.CustomerConsoleApplication.dll
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\bin\Debug\net5.0\ref\asyno.CustomerConsoleApplication.dll
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\bin\Debug\net5.0\asyno.CustomerConsoleApplication.pdb
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\asyno.CustomerConsoleApplication.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\asyno.CustomerConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\asyno.CustomerConsoleApplication.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\asyno.CustomerConsoleApplication.AssemblyInfo.cs
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\asyno.CustomerConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\asyno.CustomerConsoleApplication.dll
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\ref\asyno.CustomerConsoleApplication.dll
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\asyno.CustomerConsoleApplication.pdb
+C:\Users\Marco\Documents\GitHub\CustomerConsoleApplication\asyno.CustomerConsoleApplication\obj\Debug\net5.0\asyno.CustomerConsoleApplication.genruntimeconfig.cache

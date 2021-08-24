@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "asyno.CustomerConsoleApplication/1.0.0": {
+        "runtime": {
+          "asyno.CustomerConsoleApplication.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "asyno.CustomerConsoleApplication/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
